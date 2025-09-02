@@ -1,6 +1,7 @@
 FastAPI
 uvicorn
 pydantic
-
+SQLAlchemy
+psycopg2
 
 # pip install -r requirements.txt
